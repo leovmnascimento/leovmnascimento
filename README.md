@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Civil Engineering and Construction materials logistics
 - 🌱 I’m currently learning Java, JavaScript, HTML and CSS
-- 📚 I’m planning to study about PHP, Laravel and Databases
+- 📚 I’m planning to study about PHP and Databases
 
 <div align="center">
   <a href="https://github.com/leovmnascimento">
@@ -17,7 +17,6 @@
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="right" alt="Leo-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="right" alt="Leo-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="right" alt="Leo-Postgreesql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   
   ##
