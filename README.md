@@ -1,9 +1,11 @@
 ### Hi! I’m Leonardo Viana 👋
 
 
-- 🔭 I’m currently working on Civil Engineering and Construction materials logistics
-- 🌱 I’m currently learning Java, JavaScript, HTML and CSS
-- 📚 I’m planning to study about PHP and Databases
+- 🏗️ I’m on Civil Engineering graduation
+- 💻 I’m on System analysis and development graduation
+- 🚐 I'm working at a construction materials logistics startup
+- ⚙️ I’m doing personal projects to study Java, HTML and CSS
+- 📚 I’m studying the theory of Phyton and JavaScript
 
 <div align="center">
   <a href="https://github.com/leovmnascimento">
@@ -16,7 +18,7 @@
   <img align="center" alt="Leo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="right" alt="Leo-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="right" alt="Leo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="right" alt="Leo-Postgreesql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   
   ##
