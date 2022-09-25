@@ -1,11 +1,11 @@
 ### Hi! I’m Leonardo Viana 👋
 
 
-- 🏗️ I’m on Civil Engineering graduation
+- 🏗️ I’m a Civil Engineer
 - 💻 I’m on System analysis and development graduation
 - 🚐 I'm working at a construction materials logistics startup
-- ⚙️ I’m doing personal projects to study Java, HTML and CSS
-- 📚 I’m studying the theory of Phyton and JavaScript
+- ⚙️ I’m doing personal projects to study Java, JavaScript, HTML and CSS
+- 📚 I’m planning to study Phyton
 
 <div align="center">
   <a href="https://github.com/leovmnascimento">
