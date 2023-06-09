@@ -3,9 +3,8 @@
 
 - 🏗️ I’m a Civil Engineer
 - 💻 I’m on System analysis and development graduation
-- 🚐 I'm working at a construction materials logistics startup
-- ⚙️ I’m doing personal projects to study Java, JavaScript, HTML and CSS
-- 📚 I’m planning to study Phyton
+- ⚙️ I’m doing personal projects to study JavaScript, HTML and CSS
+- 📚 I'm studying the theory of Python and Java
 
 <div align="center">
   <a href="https://github.com/leovmnascimento">
